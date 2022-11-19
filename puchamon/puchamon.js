@@ -1,5 +1,5 @@
 function seleccionPuchamonJugador () {
-    alert(ELEGISTE TU PUCHAMON)
+    alert("ELEGISTE TU PUCHAMON")
 }
 
 let botonPuchamonJugador = document.getElementById("boton-puchamon")
